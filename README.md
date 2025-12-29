@@ -1,6 +1,6 @@
 <!-- ===================================== -->
 
-<!--        KILLUABOT DEV — README         -->
+<!--        GITHUB PROFILE README         -->
 
 <!-- ===================================== -->
 
@@ -8,15 +8,14 @@
 
 <!-- BANNER -->
 
-<img src="https://i.pinimg.com/originals/5e/0e/1f/5e0e1f9f7f5f4f6c6a7e3f3a3e6c6d.gif" width="100%" alt="Killua Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dev%20Yer%20Zx&fontAlign=50&fontAlignY=40&color=0:0f2027,100:2c5364&fontColor=ffffff" width="100%" />
 
-<h1>⚡ KilluaBot Dev</h1>
-<h3>Dark Anime • Developer Mode • Hunter Style</h3>
+<h1>👋 Hi, I'm Dev Yer Zx</h1>
+<h3>Developer • Automation • Bots • Web</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Status-In%20Development-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Version-v1.0.0-FF1493?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Theme-Dracula-282A36?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active%20Developer-2c5364?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-JavaScript%20%26%20Bots-0f2027?style=for-the-badge" />
 </p>
 
 <!-- BUTTONS -->
@@ -27,44 +26,32 @@
 
 ---
 
-## ⚡ Killua Animation
+## 🇪🇸 Sobre mí
+
+Soy desarrollador enfocado en **JavaScript**, automatización y creación de **bots y proyectos web**. Me gusta mantener un código limpio, funcional y en constante mejora.
+
+* 💻 Desarrollo de bots y herramientas
+* ⚙️ Automatización y scripts
+* 🌐 Web (HTML, CSS, JS)
+* 📚 Aprendizaje continuo
+
+---
+
+## 🇺🇸 About Me
+
+I'm a developer focused on **JavaScript**, automation, and building **bots and web projects**. I enjoy writing clean, functional code and constantly improving my skills.
+
+* 💻 Bot and tool development
+* ⚙️ Automation and scripting
+* 🌐 Web (HTML, CSS, JS)
+* 📚 Continuous learning
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://media.tenor.com/2KZ9R6X6Y2EAAAAC/killua-hxh.gif" width="420" alt="Killua Hunter x Hunter Animation" />
-</p>
-
----
-
-## 🇪🇸 Español
-
-⚡ **KilluaBot Dev** es un bot en **desarrollo activo**, con un enfoque en automatización, rendimiento y aprendizaje continuo.
-
-Inspirado en un **estilo anime oscuro**, el proyecto evoluciona constantemente, por lo que algunas funciones pueden cambiar o eliminarse en futuras versiones.
-
-* 🚧 Estado: En desarrollo
-* 🧠 Código en evolución constante
-* 🔥 Inspirado en Killua (Hunter x Hunter)
-* ⚠️ Cambios frecuentes entre versiones
-
----
-
-## 🇺🇸 English
-
-⚡ **KilluaBot Dev** is a bot under **active development**, focused on automation, performance, and continuous learning.
-
-Inspired by a **dark anime aesthetic**, the project is constantly evolving, so some features may change or be removed in future versions.
-
-* 🚧 Status: In development
-* 🧠 Continuously evolving code
-* 🔥 Inspired by Killua (Hunter x Hunter)
-* ⚠️ Frequent changes between releases
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,html,css,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github&theme=dark" />
 </p>
 
 ---
@@ -72,13 +59,13 @@ Inspired by a **dark anime aesthetic**, the project is constantly evolving, so s
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevYerZx&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevYerZx&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevYerZx&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevYerZx&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contributions
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
@@ -88,6 +75,6 @@ Inspired by a **dark anime aesthetic**, the project is constantly evolving, so s
 
 <div align="center">
 
-⚡ *Speed • Precision • Evolution* ⚡
+✨ *Building • Learning • Improving* ✨
 
 </div>
